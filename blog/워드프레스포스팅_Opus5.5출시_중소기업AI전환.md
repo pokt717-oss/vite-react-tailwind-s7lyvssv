@@ -6,7 +6,7 @@
 - **SEO 제목**: 중소기업 AI 전환 - Claude Opus 5.5 출시, 더 싸고 빨라졌다 | AX파트너
 - **메타 설명**: Anthropic이 2026년 9월 22일 Claude Opus 5.5를 출시해 비용은 40% 낮추고 속도는 30% 높였습니다. 중소기업 AI 전환(AX) 관점에서 정리했습니다. 우리 회사가 바로 해볼 시작 방법을 확인해보세요.
 - **퍼머링크(슬러그)**: sme-ax-claude-opus-5-5
-- **대표 이미지**: opus55-thumbnail.png (1200×630)
+- **대표 이미지**: wp-opus55-thumbnail.png (1200×630)
 
 > 편집 화면 우측 "Rank Math" 탭 → 스니펫 편집에 위 값을 입력하고, 문서 탭에서 대표 이미지를 지정하세요.
 
@@ -16,28 +16,28 @@
 
 | 위치 | 파일명 | alt 텍스트 |
 |---|---|---|
-| 대표 이미지(썸네일) | opus55-thumbnail.png | 노트북으로 새 AI 모델을 확인하는 중소기업 대표 |
-| 본문 01 섹션 아래 | opus55-cost-speed.png | Opus 5.5 비용 절감과 속도 향상을 보여주는 인포그래픽 |
-| 본문 03 섹션 아래 | opus55-sme-usecase.png | 중소기업 직원이 AI로 스프레드시트 업무를 처리하는 모습 |
-| 본문 05 섹션 아래 | opus55-start-guide.png | 중소기업 AI 전환 첫 단계를 메모하며 노트북에 입력하는 손 |
+| 대표 이미지(썸네일) | wp-opus55-thumbnail.png | 노트북으로 새 AI 모델을 확인하는 중소기업 대표 |
+| 본문 01 섹션 아래 | wp-opus55-cost-speed.png | Opus 5.5 비용 절감과 속도 향상을 보여주는 인포그래픽 |
+| 본문 03 섹션 아래 | wp-opus55-sme-usecase.png | 중소기업 직원이 AI로 스프레드시트 업무를 처리하는 모습 |
+| 본문 05 섹션 아래 | wp-opus55-start-guide.png | 중소기업 AI 전환 첫 단계를 메모하며 노트북에 입력하는 손 |
 
-**opus55-thumbnail.png — 대표 이미지 (1200×630)**
+**wp-opus55-thumbnail.png — 대표 이미지 (1200×630)**
 ```
 Realistic documentary-style photo of a Korean small business owner in his 40s sitting at a wooden desk, seen from a three-quarter back angle so the face is not visible, looking at a laptop screen that glows with a soft abstract interface suggesting a new AI assistant, a cup of coffee and a paper planner beside the laptop, modern Korean small business office with plants, soft morning natural light through a large window, warm and hopeful mood, shot on 50mm lens, shallow depth of field, no text, no letters, no logos, photorealistic, 16:9 aspect ratio.
 ```
 
-**opus55-cost-speed.png — 본문 01 (실사 인포그래픽 결합형, Gemini·GPT Image 등 한글 렌더링 도구 권장)**
+**wp-opus55-cost-speed.png — 본문 01 (실사 인포그래픽 결합형, Gemini·GPT Image 등 한글 렌더링 도구 권장)**
 ```
 Photorealistic photo of a Korean office worker in a modern office, seen from the side, pointing at a large white infographic board on the wall. Board header: dark navy-to-orange gradient banner with bold white Korean text "Opus 5.5 무엇이 달라졌나". Below, two columns each with a simple icon: left column labeled "운영 비용" showing a two-bar comparison — orange bar labeled "Opus 5" (tall) and blue bar labeled "Opus 5.5" (shorter), with a callout "40% 절감"; right column labeled "출력 속도" showing orange bar "Opus 5" (short) and blue bar "Opus 5.5" (taller), with a callout "30% 빠름". Photorealistic documentary-style photography, natural window light, shallow depth of field, sharp legible Korean text and numbers, modern Korean office background with blurred plants, 16:9 aspect ratio.
 ```
 > 한글 오타가 나면 배경만 실사로 생성한 뒤 Canva·파워포인트에서 문구와 막대를 얹으세요.
 
-**opus55-sme-usecase.png — 본문 03**
+**wp-opus55-sme-usecase.png — 본문 03**
 ```
 Realistic photo of a Korean female office employee at a small company, shown from behind and slightly to the side, reviewing a spreadsheet and a document side by side on a large monitor, papers and invoices neatly stacked on the desk, small Korean trading company office interior, soft natural window light, documentary-style corporate photography, shot on 35mm lens, shallow depth of field, no readable text on screen, no letters, no logos, photorealistic, 16:9 aspect ratio.
 ```
 
-**opus55-start-guide.png — 본문 05**
+**wp-opus55-start-guide.png — 본문 05**
 ```
 Realistic close-up photo of a person's hands writing a short checklist in a notebook with a pen, next to an open laptop on a minimal wooden desk, warm afternoon natural light, a small potted plant and a mug in soft focus, calm and practical mood, documentary editorial style, shot on 50mm lens, shallow depth of field, no readable text, no letters, no logos, photorealistic, 16:9 aspect ratio.
 ```
@@ -58,7 +58,7 @@ Realistic close-up photo of a person's hands writing a short checklist in a note
 
 ## 01 Claude Opus 5.5는 무엇이 달라졌나요
 
-![Opus 5.5 비용 절감과 속도 향상을 보여주는 인포그래픽](opus55-cost-speed.png)
+![Opus 5.5 비용 절감과 속도 향상을 보여주는 인포그래픽](wp-opus55-cost-speed.png)
 
 **한마디로 "최상위 모델 수준의 실력을, 더 싼 값에, 더 빠르게" 쓸 수 있게 된 모델입니다.** Anthropic 발표에 따르면 Opus 5.5는 대부분의 작업에서 회사의 최상위 모델인 Claude Fable 5.1에 준하는 성능을 내면서도, 운영 비용은 이전 모델인 Opus 5보다 40% 저렴하고 답을 내놓는 속도는 30% 빨라졌습니다.
 
@@ -86,7 +86,7 @@ Claude 앱의 안내 화면에도 이런 변화가 요약돼 있습니다. "명�
 
 ## 03 중소기업 AI 전환에는 어떤 의미가 있나요
 
-![중소기업 직원이 AI로 스프레드시트 업무를 처리하는 모습](opus55-sme-usecase.png)
+![중소기업 직원이 AI로 스프레드시트 업무를 처리하는 모습](wp-opus55-sme-usecase.png)
 
 **가장 큰 의미는 "도입 문턱이 낮아졌다"는 것입니다.** 중소기업 AI 전환을 가로막던 대표적인 걱정은 비용, 결과물 품질, 그리고 "우리 같은 작은 회사가 쓸 수 있을까"였습니다. 이번 출시는 이 세 가지를 동시에 조금씩 덜어줍니다.
 
@@ -118,9 +118,9 @@ Claude 앱의 안내 화면에도 이런 변화가 요약돼 있습니다. "명�
 
 AI가 "컴퓨터를 직접 다루는" 능력이 좋아질수록, 그 AI가 엉뚱한 행동을 하지 않는지가 더 중요해집니다. 그런 점에서 성능과 안전성 평가가 함께 공개된 것은 의미가 있습니다.
 
-![중소기업 AI 전환 첫 단계를 메모하며 노트북에 입력하는 손](opus55-start-guide.png)
+![중소기업 AI 전환 첫 단계를 메모하며 노트북에 입력하는 손](wp-opus55-start-guide.png)
 
-다만 회사 입장에서 안전은 모델만으로 완성되지 않습니다. 고객 개인정보나 계약서 원본을 그대로 넣지 않기, AI 결과물은 사람이 최종 확인하기 같은 **사내 기본 규칙**을 함께 정해 두어야 안심하고 쓸 수 있습니다. AI를 안전하게 쓰는 사내 규칙은 [AX 거버넌스 관련 글](URL — 확인 필요)에서 더 자세히 다루고 있습니다.
+다만 회사 입장에서 안전은 모델만으로 완성되지 않습니다. 고객 개인정보나 계약서 원본을 그대로 넣지 않기, AI 결과물은 사람이 최종 확인하기 같은 **사내 기본 규칙**을 함께 정해 두어야 안심하고 쓸 수 있습니다. 이런 사내 규칙은 AX 파트너가 강조하는 [AX 4대 요소(데이터·도구·연동·거버넌스)](https://axpartner.co.kr/) 중 거버넌스에 해당합니다.
 
 ## 우리 회사, Opus 5.5로 이번 주에 해볼 3가지
 
@@ -137,7 +137,7 @@ AI가 "컴퓨터를 직접 다루는" 능력이 좋아질수록, 그 AI가 엉�
 **3단계 — 걸린 시간 비교하기**
 - 사람이 직접 할 때와 AI 초안을 손볼 때의 시간을 적어 둡니다. 이 숫자가 다음 도입 결정을 내리는 가장 확실한 근거가 됩니다.
 
-어떤 업무부터 AI에 맡겨야 할지 막막하다면 [중소기업 AX(AI 전환)이란 무엇인가](URL — 확인 필요)를 먼저 읽어보셔도 좋습니다.
+어떤 업무부터 AI에 맡겨야 할지 막막하다면 직전 모델의 요금 변화를 다룬 [클로드 페이블5 요금제 개편, 중소기업 AI 전환에 미치는 영향](https://axpartner.co.kr/claude-fable5-pricing-sme-ax/)도 함께 읽어보시면 비용 판단에 도움이 됩니다.
 
 더 자세한 발표 내용은 [Anthropic 공식 발표 — Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)에서 확인할 수 있습니다.
 
@@ -177,17 +177,15 @@ A. Pro·Max·Team·좌석형 Enterprise 요금제에 5시간 사용 한도 상�
 
 중소기업AI전환, AX파트너, AX컨설팅, 중소기업AI, 소상공인AI, 업무자동화, Claude Opus 5.5, 클로드
 
-### 3. 내부링크 확인 필요
+### 3. 내부링크 (적용 완료)
 
-본문의 내부링크 2곳이 `URL — 확인 필요`로 표시돼 있습니다. 발행 전 axpartner.co.kr 기존 글 중 아래 주제에 맞는 글의 URL로 교체하세요. 해당 글이 아직 없다면 비슷한 주제의 기존 글로 바꿔 주세요.
-
-- "AX 거버넌스 관련 글" (05 섹션)
-- "중소기업 AX(AI 전환)이란 무엇인가" (실전 섹션)
+- 05 섹션: [AX 4대 요소](https://axpartner.co.kr/) → 홈페이지 (거버넌스 전용 글이 검색되지 않아 4대 요소 소개가 있는 홈페이지로 연결)
+- 실전 섹션: [클로드 페이블5 요금제 개편, 중소기업 AI 전환에 미치는 영향](https://axpartner.co.kr/claude-fable5-pricing-sme-ax/)
 
 ### 4. 이미지 업로드
 
-- 파일명은 위 표의 영문 파일명(opus55-*.png) 그대로 업로드하고, 각 이미지의 alt 텍스트를 미디어 설정에 입력하세요.
-- 대표 이미지는 opus55-thumbnail.png (1200×630)로 지정하세요.
+- 파일명은 위 표의 영문 파일명(wp-opus55-*.png) 그대로 업로드하고, 각 이미지의 alt 텍스트를 미디어 설정에 입력하세요.
+- 대표 이미지는 wp-opus55-thumbnail.png (1200×630)로 지정하세요.
 - 본문 이미지는 가로 800~1024px, 가능하면 WebP로 변환해 올리세요.
 
 ### 5. SEO 체크리스트 점검 결과

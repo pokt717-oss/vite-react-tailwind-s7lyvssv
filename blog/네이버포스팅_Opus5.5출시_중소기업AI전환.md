@@ -5,7 +5,7 @@
 
 ---
 
-🖼️ [이미지 ① — 대표 썸네일] `opus55-thumbnail.png`
+🖼️ [이미지 ① — 대표 썸네일] `naver-opus55-thumbnail.png`
 - 위치: 제목 바로 아래 (대표 이미지로 설정)
 - 캡션(설명): Claude Opus 5.5 출시 — 더 싸고 빠르고 똑똑해진 AI, 중소기업 AX의 새 기회
 - 생성 프롬프트(영문): A clean, modern hero illustration for a Korean business blog about a new AI model launch. A glowing abstract AI core made of soft green and gold light particles rising above a small, friendly office desk with a laptop, documents and a spreadsheet on screen. Warm cream background with subtle paper texture, minimal flat-illustration style, generous negative space on the left for a title, no text, no logos, 16:9
@@ -62,7 +62,7 @@ API(다른 프로그램과 AI를 서로 연결해서 쓰는 방식) 요금으로
 
 ❝ 같은 예산으로 더 많이, 더 빠르게 — 이게 이번 업데이트의 본질 ❞
 
-🖼️ [이미지 ② — 본문] `opus55-cost-speed.png`
+🖼️ [이미지 ② — 본문] `naver-opus55-cost-speed.png`
 - 위치: "2. 숫자로 보는 Opus 5.5" 표 바로 아래
 - 캡션(설명): Opus 5 대비 Opus 5.5 — 비용 40% 절감, 속도 30% 향상 비교 인포그래픽
 - 생성 프롬프트(영문): A clean infographic-style illustration comparing two AI models side by side: on the left a heavier, slower gear machine with a large coin stack, on the right a sleek, lighter machine with a smaller coin stack and a speed trail. Downward green arrow over the coins and an upward gold arrow for speed. Flat vector style, cream background, deep forest green and gold accents, minimal, no text, no logos, 16:9
@@ -89,7 +89,7 @@ Pro·Max·Team 등 유료 요금제의 5시간 사용 한도가 늘었고, 출�
 | 엑셀 데이터 정리 | 수식 오류 확인에 시간 소요 | 정리 품질·속도 향상 |
 | 반복 업무 자동화 | 개발자 도움 필요 | 간단한 자동화는 직접 시도 가능 |
 
-🖼️ [이미지 ③ — 본문] `opus55-sme-usecase.png`
+🖼️ [이미지 ③ — 본문] `naver-opus55-sme-usecase.png`
 - 위치: "3. 중소기업 AI 전환, 실제 업무에선…" 표 바로 아래
 - 캡션(설명): 작은 사무실에서 AI와 함께 문서·엑셀·요약 업무를 처리하는 중소기업 대표
 - 생성 프롬프트(영문): A warm flat illustration of a small Korean business owner in a cozy small office, working with a laptop while friendly floating panels show a neatly summarized document, a clean spreadsheet, and a checklist being completed by an AI assistant represented as a soft glowing green orb. Calm and productive mood, cream background, deep green and gold palette, minimal, no text, no logos, 16:9
@@ -114,7 +114,7 @@ Pro·Max·Team 등 유료 요금제의 5시간 사용 한도가 늘었고, 출�
 > 형식은 표로, 불확실한 내용은 "확인 필요"로 표시해줘.
 > [여기에 회의록 붙여넣기]
 
-🖼️ [이미지 ④ — 본문] `opus55-start-guide.png`
+🖼️ [이미지 ④ — 본문] `naver-opus55-start-guide.png`
 - 위치: "4. 그럼 우리 회사는 뭐부터…" 3단계 목록 아래
 - 캡션(설명): 중소기업 AI 전환 3단계 — 업무 고르기, 2주 테스트, 효과 측정
 - 생성 프롬프트(영문): A simple three-step path illustration on a cream background: step one a hand picking one document card from a stack, step two a small calendar showing two weeks with a glowing AI orb helping, step three a stopwatch and an upward bar chart. Connected by a gentle dotted path, flat vector style, deep forest green and gold accents, minimal and friendly, no text, no logos, 16:9
